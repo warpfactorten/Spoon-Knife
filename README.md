@@ -1,4 +1,8 @@
-### Well hello there!
+### This Spoon-Knife fork has been tinkered with.
+
+And this is a sign of this tinkering.
+
+### Original text
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
